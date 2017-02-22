@@ -1,15 +1,3 @@
-<?php
-
-
-//課題
-/**
- * レイド複数選択した時に番号若いほうを優先してとってる？
- * 表示件数選択出来るようにする
- * こぴー機能いれる
- */
-
-?>
-
 <html>
 <head>
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>

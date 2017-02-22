@@ -43,7 +43,6 @@ $params = [
     "raid_list" => $raidList,
 ];
 
-error_log(print_r($params, true), 3, "/home/sohei/log/debug.log");
 foreach ($result as $key => $tweet)
 {
     if(!validate("id", $tweet["id"], $params))
